@@ -1,2 +1,2 @@
 libgl1
-libxcb 1.13-1
+libqxcb.so
