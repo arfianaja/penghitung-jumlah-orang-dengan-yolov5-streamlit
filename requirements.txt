@@ -45,7 +45,7 @@ matplotlib-inline==0.1.6
 mccabe==0.7.0
 numpy==1.23.5
 oauthlib==3.2.2
-opencv-python==4.7.0.68
+opencv-python==4.6.0.66
 packaging==22.0
 pandas==1.5.2
 parso==0.8.3
@@ -102,3 +102,4 @@ Werkzeug==2.2.2
 yacs==0.1.8
 yapf==0.32.0
 zipp==3.11.0
+PyQt6==6.3.1
