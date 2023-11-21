@@ -7,7 +7,10 @@ import cv2
 import torch
 import streamlit as st
 from datetime import datetime
+
 import os
+os.environ.update({"QT_QPA_PLATFORM_PLUGIN_PATH": "/home/udara/anaconda3/envs/research-headless/lib/python3.8/site-packages/PyQt5/Qt5/plugins/xcbglintegrations/libqxcb-glx-integration.so"})
+
 from PIL import Image
 import base64
 
